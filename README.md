@@ -15,3 +15,6 @@ Notes:
 
 Enables only (true); no disable option.
 Requires Viva Engage admin permissions.
+
+
+The script requires token and network ID as input.
